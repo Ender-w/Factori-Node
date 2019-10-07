@@ -1,2 +1,2 @@
-# LD45
-FactoriNode
+# Factori-Node
+Created for Ludum Dare 45
